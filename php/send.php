@@ -15,7 +15,7 @@
 	<link rel="stylesheet" href="../css/style.css">
 	<!-- page title -->
 	<title>Orabel</title>
-</head>
+</head>''
 
 <body onLoad="setTimeout('delayedRedirect()', 5000)">
 
